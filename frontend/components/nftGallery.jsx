@@ -80,7 +80,7 @@ export default function NFTGallery({}) {
     <div className={styles.nft_gallery_page}>
       <div>
         <div className={styles.fetch_selector_container}>
-          <h2 style={{ fontSize: "20px" }}>Sudo Surfer🌊🏄</h2>
+          <h2 style={{ fontSize: "20px" }}>Sudo Surfer 🏄</h2>
           <div className={styles.select_container}>
             <select
               defaultValue={"wallet"}
@@ -126,7 +126,7 @@ export default function NFTGallery({}) {
 
       {isLoading ? (
         <div className={styles.loading_box}>
-          <p>Riding the waves...🌊</p>
+          <p>Ride the blockchain 🌊</p>
         </div>
       ) : (
         <div className={styles.nft_gallery}>
@@ -159,7 +159,7 @@ export default function NFTGallery({}) {
 							})
 						) : (
 							<div className={styles.loading_box}>
-								<p>No waves found, try typing boredape.eth maybe?</p>
+								<p>sorry no tokens, try typing boredape.eth maybe?</p>
 							</div>
 						)}
 					</div>
