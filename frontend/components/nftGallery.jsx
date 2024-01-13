@@ -81,6 +81,7 @@ export default function NFTGallery({}) {
       <div>
         <div className={styles.fetch_selector_container}>
           <h2 style={{ fontSize: "20px" }}>Sudo Surfer 🏄</h2>
+	  <h4 style={{ fontColor: "green" }}><code>search any token on the blockchain</code></h4>
           <div className={styles.select_container}>
             <select
               defaultValue={"wallet"}
