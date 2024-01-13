@@ -80,8 +80,8 @@ export default function NFTGallery({}) {
     <div className={styles.nft_gallery_page}>
       <div>
         <div className={styles.fetch_selector_container}>
-          <h2 style={{ fontSize: "20px" }}>Sudo Surfer 🏄</h2>
-	  <h4 style={{ fontColor: "green" }}><code>search any token on the blockchain</code></h4>
+          <h2 style={{ fontSize: "20px" }}>Ethereum Surf.... 🏄</h2>
+	  <h4 style={{ fontColor: "green" }}><code>Surf any token on the blockchain</code></h4>
           <div className={styles.select_container}>
             <select
               defaultValue={"wallet"}
@@ -118,7 +118,7 @@ export default function NFTGallery({}) {
               </select>
             </div>
             <div onClick={() => fetchNFTs()} className={styles.button_black}>
-              <a>SURF🏄🏻</a>
+              <a>Go!🏄🏻</a>
             </div>
           </div>
         </div>
@@ -127,7 +127,7 @@ export default function NFTGallery({}) {
 
       {isLoading ? (
         <div className={styles.loading_box}>
-          <p>Ride the blockchain 🌊</p>
+          <p>Ride the blockchain🌊</p>
         </div>
       ) : (
         <div className={styles.nft_gallery}>
