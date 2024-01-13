@@ -80,7 +80,8 @@ export default function NFTGallery({}) {
     <div className={styles.nft_gallery_page}>
       <div>
         <div className={styles.fetch_selector_container}>
-          <h2 style={{ fontSize: "20px" }}>Ethereum Surf.... 🏄</h2>
+		 <h1 style={{ fontSize: "20px" }}>Ethereum Surf.... 🏄</h1>
+		 <h2 style={{ fontSize: "15px" }}>jessejesse.eth/h2>
 	  <h4 style={{ fontColor: "green" }}><code>Surf any token on the blockchain</code></h4>
           <div className={styles.select_container}>
             <select
