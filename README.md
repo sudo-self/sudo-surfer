@@ -9,3 +9,4 @@
 ![Screenshot 2024-01-13 at 11 38 22 PM](https://github.com/sudo-self/sudo-surfer/assets/119916323/f8d7878b-683f-42ee-965c-dc9ec09dfc44)
 ![Screenshot 2024-01-13 at 11 37 49 PM](https://github.com/sudo-self/sudo-surfer/assets/119916323/6d2fa098-f359-47d4-8e04-8e0101fc523e)
 ![Screenshot 2024-01-13 at 8 34 12 PM](https://github.com/sudo-self/sudo-surfer/assets/119916323/8e44b6a8-3f79-4c41-9a81-1ef100847845)
+![Screenshot 2024-01-13 at 11 37 49 PM](https://github.com/sudo-self/sudo-surfer/assets/119916323/e68eb33f-5e13-497c-bac7-8f557365974c)
